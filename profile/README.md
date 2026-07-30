@@ -23,15 +23,14 @@ TAF Technology specializes in strategic AI automation that transforms how busine
 
 ### Frontend & Mobile
 - **React & Next.js** - Modern web development
-- **React Native & Flutter** - Cross-platform mobile development
+- **React Native** - Cross-platform mobile development
 
 ### AI & Machine Learning
-- **TensorFlow & PyTorch** - AI/ML model development
 - **Custom AI Models** - Tailored solutions for specific business needs
 - **Natural Language Processing** - Intelligent automation
 
 ### Backend & Infrastructure
-- **AWS, Azure, Google Cloud, Supabase** - Scalable cloud infrastructure
+- **AWS, Azure, Google Cloud, Cloudflare** - Scalable cloud infrastructure
 - **DevOps & CI/CD** - Automated deployment pipelines
 - **API Integration** - Seamless system connectivity
 
@@ -76,15 +75,6 @@ We work across all industries but develop deep expertise in:
 - **Supply Chain** - Demand forecasting, procurement automation
 - **Logistics** - Operational efficiency, competitive differentiation
 - **Accounting & Finance** - Client communication, process automation
-
-
-
-## 👥 Our Team
-
-- **Abdus Salam** - CEO & Co-Founder
-- **Tarif Salam** - CTO & Co-Founder
-- **Tafim Salam** - Lead Designer
-- **Farida Yeasmin** - Lead Marketer
 
 
 
@@ -142,7 +132,6 @@ Stay updated with our latest insights:
 Interested in transforming your business with strategic AI automation?
 
 - **Schedule a Consultation**: [Contact Us](https://taftechnology.com/contact)
-- **View Our Packages**: [Pricing & Services](https://taftechnology.com/#pricing)
 - **Learn More**: [About Us](https://taftechnology.com/about)
 
 
@@ -163,6 +152,6 @@ To help businesses transform their operations through strategic AI automation, f
 
 [Website](https://taftechnology.com) • [Contact](https://taftechnology.com/contact) • [Blog](https://taftechnology.com/news)
 
-**Built with ❤️ by TAF Technology - Strategic AI automation experts.**
+**Built with ❤️ by TAF Technology - Strategic AI automation experts from Canada.**
 
 </div>
